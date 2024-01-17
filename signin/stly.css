@@ -1,0 +1,57 @@
+.body{
+    text-align: center;
+    background-image: image-set(stly);
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(121, 114, 114, 0.637);
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: 10PX;
+    padding-top: 25px;
+}
+button{
+    background-color: rgb(4, 250, 4);
+    color: black;
+    border: none;
+    height: 30px;
+    width: 250px ;
+}
+button :active{
+    background-color: antiquewhite;
+}
+
+.img{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+.link{
+    border: solid;
+    border-width: 1px;
+    border-color: rgba(121, 114, 114, 0.637) ;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom: 10PX;
+    padding-top: 15px;
+    text-align: center;
+}
+.pass{
+    text-align: end;
+    margin-right: 50px;
+    text-decoration-line: none;
+    
+}
+.password{
+    text-align: start;
+    margin-left:50px ;
+}
+
+.username{
+    text-align: start;
+    margin-left: 50px;
+}
